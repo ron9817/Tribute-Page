@@ -1,0 +1,84 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+.canvas{
+  min-height: 98%;
+  width: 98%;
+  margin:0 auto;
+  border-radius: 15px;
+  background-color: #ccc;
+}
+
+.page-title {
+  font-size: 50px;
+  padding-top: 20px;
+}
+
+.sub-title{
+  font-size: 25px;
+  padding-bottom: 10px;
+}
+
+.slideshow{
+  text-align: center;
+}
+
+.toggle-button {
+  font-size: 40px;
+  padding-top: 50%;
+/*  padding: 230px 0; */
+}
+
+.slideshow .profile-image{
+  width: 90%;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 10px;
+}
+
+.toggler-images {
+  text-align: center;
+  margin-bottom: 35px;
+}
+
+.circle {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  display: inline-block;
+  margin: 5px;
+}
+
+.timeline{
+  width: 70%;
+  margin-left: 15%;
+  height: 60%;
+}
+
+.timeline .headings {
+  text-decoration: underline;
+  text-decoration-style: double;
+  padding-bottom: 2%;
+}
+
+.timeline .contents {
+  padding-left: 50px;
+  padding-right: 80px;
+  text-align: justify;
+}
+
+li {
+  margin-top: 3px;
+  margin-bottom: 3px;
+}
+
+@media only screen and (max-width: 700px){
+  .timeline{
+    width: 90%;
+    margin-left: 5%;
+    min-height: 60%;
+    padding-top: -
+  }
+}

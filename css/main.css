@@ -27,8 +27,6 @@ html, body {
 
 .toggle-button {
   font-size: 40px;
-  padding-top: 50%;
-/*  padding: 230px 0; */
 }
 
 .slideshow .profile-image{
@@ -72,13 +70,4 @@ html, body {
 li {
   margin-top: 3px;
   margin-bottom: 3px;
-}
-
-@media only screen and (max-width: 700px){
-  .timeline{
-    width: 90%;
-    margin-left: 5%;
-    min-height: 60%;
-    padding-top: -
-  }
 }

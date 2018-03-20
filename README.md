@@ -1,5 +1,5 @@
-### This is the Personal Portfolio Website of:
+### This repo holds the Tribute Page dedicated in memory of one & Only,
 
-## Jalaz Kumar
+## Dr. A.P.J. Abdul Kalam
 
-:octocat: *jaykay12*
+:rocket: *The Missile Man of India*

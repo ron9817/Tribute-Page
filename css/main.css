@@ -1,24 +1,21 @@
-html, body {
-  height: 100%;
-  width: 100%;
-}
-
 .canvas{
-  min-height: 98%;
-  width: 98%;
   margin:0 auto;
-  border-radius: 15px;
-  background-color: #ccc;
 }
-
+body{
+  background-color: #ccc !important;
+}
 .page-title {
   font-size: 50px;
   padding-top: 20px;
+  font-family: 'Exo';
 }
 
 .sub-title{
   font-size: 25px;
   padding-bottom: 10px;
+  font-family: 'Exo';
+  font-style: italic;
+  text-decoration: underline;
 }
 
 .slideshow{
@@ -75,4 +72,9 @@ html, body {
 li {
   margin-top: 3px;
   margin-bottom: 3px;
+}
+footer{
+  background-color: #fff;
+  padding: 1rem;
+  margin: 0;
 }
